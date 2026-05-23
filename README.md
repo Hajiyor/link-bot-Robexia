@@ -23,7 +23,7 @@ A Telegram bot that downloads media from YouTube, Instagram, Twitter/X, Spotify,
 
 ```bash
 git clone https://github.com/Hajiyor/link-bot-Robexia
-cd linkpink-bot
+cd link-bot-Robexia
 bash setup.sh
 ```
 
